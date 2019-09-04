@@ -4,17 +4,21 @@
   "description": "* ### features\r   * fully responsible\r   * css, html, js only no library",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/senthilkannan26/typewriter-effect.git"
+    "url": "git+https://github.com/techkanna/typewriter-effect.git"
   },
   "keywords": [],
   "author": "senthilkannan",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/senthilkannan26/typewriter-effect/issues"
+    "url": "https://github.com/techkanna/typewriter-effect/issues"
   },
-  "homepage": "https://github.com/senthilkannan26/typewriter-effect#readme"
+  "homepage": "https://github.com/techkanna/typewriter-effect",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
 }
