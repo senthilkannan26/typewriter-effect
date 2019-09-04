@@ -1,0 +1,20 @@
+{
+  "name": "typewriter",
+  "version": "1.0.0",
+  "description": "* ### features\r   * fully responsible\r   * css, html, js only no library",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senthilkannan26/typewriter-effect.git"
+  },
+  "keywords": [],
+  "author": "senthilkannan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/senthilkannan26/typewriter-effect/issues"
+  },
+  "homepage": "https://github.com/senthilkannan26/typewriter-effect#readme"
+}
